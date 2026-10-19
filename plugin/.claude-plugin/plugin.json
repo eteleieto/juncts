@@ -1,0 +1,24 @@
+{
+  "name": "juncts",
+  "version": "0.1.1",
+  "description": "Read, draft, and organize messages in your connected Juncts inboxes. Requires Juncts open with agent access enabled.",
+  "author": {
+    "name": "Juncts",
+    "email": "joe@juncts.com",
+    "url": "https://juncts.com"
+  },
+  "homepage": "https://juncts.com",
+  "keywords": [
+    "inbox",
+    "messaging",
+    "productivity"
+  ],
+  "displayName": "Juncts",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://juncts.com",
+  "supportUrl": "https://juncts.com/support",
+  "privacyPolicyUrl": "https://juncts.com/privacy",
+  "termsOfServiceUrl": "https://juncts.com/terms",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/eteleieto/juncts"
+}

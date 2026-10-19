@@ -1,0 +1,16 @@
+{
+  "name": "juncts",
+  "owner": {
+    "name": "Juncts",
+    "email": "joe@juncts.com",
+    "url": "https://juncts.com"
+  },
+  "plugins": [
+    {
+      "name": "juncts",
+      "source": "./plugin",
+      "description": "Read, draft, and organize messages in your connected Juncts inboxes. Requires Juncts open with agent access enabled."
+    }
+  ],
+  "description": "Juncts inbox tools and workflows for Claude."
+}
