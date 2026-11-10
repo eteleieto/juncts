@@ -1,6 +1,6 @@
 {
   "name": "juncts",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Read, draft, and organize messages in your connected Juncts inboxes. Requires Juncts open with agent access enabled.",
   "author": {
     "name": "Juncts",
@@ -15,7 +15,7 @@
   ],
   "displayName": "Juncts",
   "icon": "./assets/icon.png",
-  "documentationUrl": "https://juncts.com",
+  "documentationUrl": "https://juncts.com/docs/mcp-cloud-connectors",
   "supportUrl": "https://juncts.com/support",
   "privacyPolicyUrl": "https://juncts.com/privacy",
   "termsOfServiceUrl": "https://juncts.com/terms",
